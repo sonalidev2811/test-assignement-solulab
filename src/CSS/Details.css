@@ -1,0 +1,6 @@
+.details-container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 35px;
+  padding-top: 67px;
+}

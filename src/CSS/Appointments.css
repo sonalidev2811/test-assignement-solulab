@@ -1,0 +1,29 @@
+.appointments-container {
+  background: #f8f8f8;
+  border-radius: 5px;
+  width: 552px;
+  display: flex;
+}
+
+.appointments {
+  padding: 8px 28px;
+  margin-right: 8px;
+  font-weight: 400;
+  font-size: 12px;
+  border: none;
+  background: #f8f8f8;
+}
+
+.upcoming-appointments {
+  color: #4469ba;
+  padding: 8px 28px;
+  margin-right: 8px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  border: none;
+  background: #ffffff;
+  border-radius: 5px;
+  margin-left: 5px;
+}
